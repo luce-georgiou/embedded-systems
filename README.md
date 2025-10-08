@@ -8,12 +8,12 @@ Through this project, I explored how software interacts with hardware at a detai
 
 ## Features implemented :
 During this course, I developed code to :
-* Turn lights on and off (LED control) : led_yellow.c led_yellow.h TP_D1.c TP_D2.c
-* Read and process data from various sensors (in this case, light sensor) : TP_D3.c
+* Turn lights on and off (LED control) : `led_yellow.c` `led_yellow.h` `TP_D1.c` `TP_D2.c`
+* Read and process data from various sensors (in this case, light sensor) : `TP_D3.c`
 * Generate sound output
-* Display text and information on a digital screen : SH1106.c SH1106.h
-* Control motor functions to drive straight using feedback control : TP_D4.c rouler_blanc.c
-The functions projet_avance.c and projet.c aimed to realize the project : have the robot follow a black line using its sensors, and stay on the loop without deviating. The project was a success.
+* Display text and information on a digital screen : `SH1106.c` `SH1106.h`
+* Control motor functions to drive straight using feedback control : `TP_D4.c` `rouler_blanc.c`
+The functions `projet_avance.c` and `projet.c` aimed to realize the project : have the robot follow a black line using its sensors, and stay on the loop without deviating. The project was a success.
 
 ## Technical focus :
 * Language : C
