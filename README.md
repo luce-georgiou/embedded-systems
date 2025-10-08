@@ -13,6 +13,7 @@ During this course, I developed code to :
 * Generate sound output
 * Display text and information on a digital screen : `SH1106.c` `SH1106.h`
 * Control motor functions to drive straight using feedback control : `TP_D4.c` `rouler_blanc.c`
+
 The functions `projet_avance.c` and `projet.c` aimed to realize the project : have the robot follow a black line using its sensors, and stay on the loop without deviating. The project was a success.
 
 ## Technical focus :
