@@ -21,7 +21,7 @@ The functions projet_avance.c and projet.c aimed to realize the project : have t
 * Tools : embedded development environment provided during the course (microcontroller-specific)
 * Emphasis on low-level programming and real-time system behavior
 
-#Learning outcomes :
+## Learning outcomes :
 * Understanding of the way software interacts with hardware
 * Gained practical experience in C programming for embedded systems
 * Applied control theory to achieve stable and accurate robot motion
